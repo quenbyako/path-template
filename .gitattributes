@@ -1,0 +1,4 @@
+# helpful file for git
+
+* text=auto eol=lf
+*.go -text diff=golang eol=lf
